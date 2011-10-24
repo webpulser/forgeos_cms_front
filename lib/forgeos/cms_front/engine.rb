@@ -1,4 +1,4 @@
-require 'rails'
+require 'forgeos/cms'
 
 module Forgeos
   module CmsFront
